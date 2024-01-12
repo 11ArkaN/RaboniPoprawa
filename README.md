@@ -11,3 +11,17 @@
 |---------|------|
 | strncpy | [Link](https://github.com/11ArkaN/RaboniPoprawa/tree/strncpy) |
 | strncmp | [Link](https://github.com/11ArkaN/RaboniPoprawa/tree/strncmp)|
+
+
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+
+
+
+
+
+[Licencja (Bardzo ważne)](LICENSE.md)
