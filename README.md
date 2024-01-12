@@ -7,6 +7,8 @@
 
 ![Acrobat_etFcK675nF](https://github.com/11ArkaN/RaboniPoprawa/assets/149787931/ba1ce0ea-0ffb-4a86-85aa-81581ba17c9a)
 
+### Protip: Czepia się jak się na schemacie da != zamiast przekreślonego ≠
+
 | Linki do kodu  | |
 |---------|------|
 | strncpy | [Link](https://github.com/11ArkaN/RaboniPoprawa/tree/strncpy) |
