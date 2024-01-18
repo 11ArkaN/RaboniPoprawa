@@ -11,7 +11,6 @@
 ### Protip #2: Jak na wygenerowanych schematach jest [i] to na waszym schemacie dajcie "i" w indeksie dolnym 
 ### Protip #3: Ostatni element schematu na tej stronce powinien być w prostokącie, a nie w kole
 ![image](https://github.com/11ArkaN/RaboniPoprawa/assets/149787931/f64acbbb-cbd8-469e-acd7-889f078ae639)
-![image](https://github.com/11ArkaN/RaboniPoprawa/assets/149787931/f623c750-ddc3-4358-8ff8-8f0e4183a68f)
 
 
 | Linki do kodu  | |
